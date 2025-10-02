@@ -1,0 +1,26 @@
+<h1 align= "center">Hellooooo, I'm asffxx.</h1>
+
+<p align= "center">  <b> <img src= https://static.wikia.nocookie.net/umamusume/images/2/2a/Matikanetannhauser_%28Main%29.png/revision/latest/scale-to-width-down/1000?cb=20240731192543" style="width: 20%;"> </b> </p>
+<p align= "center">  <b>"Ei ei, Mun!" </b> </p>
+ <br>
+
+
+<h2> 🔧 What I Use </h2>
+
+
+- 📝 **Editor:**
+
+  [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjAuMDAwMjQwMDAwMDAwMDAwMDAwMDMiPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlPSIjQ0NDQ0NDIiBzdHJva2Utd2lkdGg9IjAuMDQ4Ii8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxwYXRoIGQ9Ik0wLjIyODM0MSA4LjM2OTE1QzAuMjI4MzQxIDguMzY5MTUgLTAuMzU2MjEyIDcuOTQzMjQgMC4zNDUyNTEgNy4zNzQ1M0wxLjk3OTU2IDUuODk3MzZDMS45Nzk1NiA1Ljg5NzM2IDIuNDQ3MjEgNS40MDAwNCAyLjk0MTY0IDUuODMzMzRMMTguMDIzMSAxNy4zNzVWMjIuOTA5NEMxOC4wMjMxIDIyLjkwOTQgMTguMDE1OCAyMy43Nzg1IDE2LjkxMjQgMjMuNjgyNUwwLjIyODM0MSA4LjM2OTE1WiIgZmlsbD0iI2ZmZmZmZiIvPiA8cGF0aCBkPSJNNC4xMTU1NSAxMS45MzY3TDAuMjI4MjczIDE1LjUwODlDMC4yMjgyNzMgMTUuNTA4OSAtMC4xNzExNzIgMTUuODA5MyAwLjIyODI3MyAxNi4zNDZMMi4wMzMwOCAxOC4wMDUzQzIuMDMzMDggMTguMDA1MyAyLjQ2MTc1IDE4LjQ3MDYgMy4wOTUwMiAxNy45NDEzTDcuMjE2MTEgMTQuNzgyN0w0LjExNTU1IDExLjkzNjdaIiBmaWxsPSIjZmZmZmZmIi8+IDxwYXRoIGQ9Ik0xMC45NCAxMS45NjYxTDE4LjA2OTEgNi40NjM2MkwxOC4wMjI4IDAuOTU4NjVDMTguMDIyOCAwLjk1ODY1IDE3LjcxODMgLTAuMjQyNzkzIDE2LjcwMjcgMC4zODI1NDhMNy4yMTU4OSA5LjExMDI1TDEwLjk0IDExLjk2NjFaIiBmaWxsPSIjZmZmZmZmIi8+IDxwYXRoIGQ9Ik0xNi45MTIxIDIzLjY5QzE3LjMyNjEgMjQuMTE4MyAxNy44Mjc5IDIzLjk3OCAxNy44Mjc5IDIzLjk3OEwyMy4zODM4IDIxLjIxMDhDMjQuMDk1MSAyMC43MjA4IDIzLjk5NTIgMjAuMTEyNyAyMy45OTUyIDIwLjExMjdWMy41ODgwM0MyMy45OTUyIDIuODYxNzUgMjMuMjU5NiAyLjYxMDYzIDIzLjI1OTYgMi42MTA2M0wxOC40NDQxIDAuMjY0Mzc3QzE3LjM5MTkgLTAuMzkyOTY4IDE2LjcwMjcgMC4zODI1NDggMTYuNzAyNyAwLjM4MjU0OEMxNi43MDI3IDAuMzgyNTQ4IDE3LjU4OTIgLTAuMjYyNDg0IDE4LjAyMjggMC45NTg2NUwxOC4wMjI4IDIyLjgwODZDMTguMDIyOCAyMi45NTg4IDE3Ljk5MTEgMjMuMTA2NSAxNy45Mjc4IDIzLjIzOTRDMTcuODAxMSAyMy40OTc5IDE3LjUyNTkgMjMuNzM5MiAxNi44NjU4IDIzLjYzODNMMTYuOTEyMSAyMy42OVoiIGZpbGw9IiNmZmZmZmYiLz4gPC9nPgoNPC9zdmc+&logoColor=white" alt="Visual Studio Code" />](https://code.visualstudio.com/)
+  
+- **Engine:**
+
+  [<img alt="Static Badge" src="https://img.shields.io/badge/Godot%20Engine-%20?style=for-the-badge&logo=godotengine&color=%2318447a">](https://godotengine.org/)
+  
+- 💻 **Languages:**
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%20?style=for-the-badge&logo=cplusplus&color=%23001c47">  <img src="https://img.shields.io/badge/C%23-823085.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACh0lEQVR4nO3azW9MURjH8UvFe2tRFQmxsGjYsJNuWImUFQ0LkdhQlv4EtKuyECr+AAuxoyyJlZ1QbwkrkbYaC/FSRBT9yE2OYNyZuXPvvOsvmeTO5D7nnO/cc59znuc5UTSv/0Tow3W8C5/4ui9qFWE9LmNOsm5iY9Sswgqcwhfl9RXnsSpqFmEhDuO1yvUGJ7Co0RA78Uh+PcOBRgBsCnO92rqFLfUA6A5z+5va6UdwFmtrAbA4zOX36qdPwXksqwbAgnju4oXGaRLHYqeSFWIb7moe3cP2Sp/C2RILWiM1hzNpQY7n7GwCo+gP3i1eKJdgHXZhBC9z9nE0DcjTjI1PxR2gI0UfHTiYA+hxGpDZDA2PoTPVI/+7r05cydDfbJrGK9WFzB7l9zt5rtJOoyqDjOWBKIC50yiQqWLTCWswjPGwsH3EAwyhp+DeDbhaqZeMqghypIj9fsyUsIuDrH1YjpP4XAlAtUEmkrxTgEjzz37HdOGPUcEYSo2pWiCjRaZTqSdRVlEDQHYn2A3nBSinWoD0Jtg9bEWQlQl2sWfKpahgDKXGVC2Qf9xu3vejUSC9CXbjeQHKqV4v+1ArglxMsOvBh6wwfw5Oke+1AJlMykVhICQPWmZBjDVYxH6gTJLiLfY2yxYl1qsSm8bVOI37wS3PhOs4K9LdbJvGWDfaYRv/S6NVCKzipF9FqlWoG6dPuzJAdIVpVZNQ94lsmg6JtLKZ9fgeHArhQM2SD4PyKY4cL2EPNsf7MiwNBaD+kDPLClAyqEuCGWniBN1IKogmT5nuqAiirZLYbVVWaLtCTx1Lb7exNWrhYujzhhRD26483VYHBtruCEeKQzXXWupQzbyifPoJFXLsQf8u6J4AAAAASUVORK5CYII=&logoColor=white" alt="C#" /> <img alt="Static Badge" src="https://img.shields.io/badge/Python-%20?style=for-the-badge&logo=python&color=%23003091">
+ <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%20?style=for-the-badge&logo=html5&color=%23bf8b00"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%20?style=for-the-badge&logo=css&color=%234f4d46">   
+
+
+
+
